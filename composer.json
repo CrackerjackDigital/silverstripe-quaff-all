@@ -10,6 +10,7 @@
 		"quaff",
 		"metapackage"
 	],
+	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Stephen Wake",
@@ -20,16 +21,16 @@
 		"php": ">=5.5",
 		"composer/installers": "*",
 		"silverstripe/framework": ">=3.1",
-		"crackerjackdigital/silverstripe-quaff": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-csv": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-guzzle": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-html": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-html-model": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-json": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-site": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-sitetree": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-streams": "dev-master",
-		"crackerjackdigital/silverstripe-quaff-xml": "dev-master"
+		"crackerjackdigital/silverstripe-quaff": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-csv": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-guzzle": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-html": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-html-model": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-json": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-site": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-sitetree": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-streams": "dev-develop",
+		"crackerjackdigital/silverstripe-quaff-xml": "dev-develop"
 	},
 	"repositories": [
 		{
