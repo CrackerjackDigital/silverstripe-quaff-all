@@ -1,0 +1,76 @@
+{
+	"name": "crackerjackdigital/silverstripe-quaff",
+	"type": "metapackage",
+	"description": "meta package for all crackerjackdigital/silverstripe-quaff modules"",
+	"homepage": "http://github.com/crackerjackdigital",
+	"license": "BSD-3-Clause",
+	"keywords": [
+		"silverstripe",
+		"api",
+		"quaff",
+		"metapackage"
+	],
+	"authors": [
+		{
+			"name": "Stephen Wake",
+			"homepage": "http://github.com/crackerjackdigital"
+		}
+	],
+	"require": {
+		"php": ">=5.5",
+		"composer/installers": "*",
+		"silverstripe/framework": ">=3.1",
+		"crackerjackdigital/silverstripe-quaff": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-csv": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-guzzle": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-html": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-html-model": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-json": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-site": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-sitetree": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-streams": "dev-master",
+		"crackerjackdigital/silverstripe-quaff-xml": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-csv.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-guzzle.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-html.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-html-model.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-json.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-site.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-sitetree.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-streams.git"
+		},
+		{
+			"type": "vcs",
+			"url": "git@github.com:CrackerjackDigital/silverstripe-quaff-xml.git"
+		}
+	]
+}
