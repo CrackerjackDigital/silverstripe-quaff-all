@@ -1,7 +1,7 @@
 {
 	"name": "crackerjackdigital/silverstripe-quaff",
 	"type": "metapackage",
-	"description": "meta package for all crackerjackdigital/silverstripe-quaff modules"",
+	"description": "meta package for all crackerjackdigital/silverstripe-quaff modules",
 	"homepage": "http://github.com/crackerjackdigital",
 	"license": "BSD-3-Clause",
 	"keywords": [
