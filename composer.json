@@ -1,5 +1,5 @@
 {
-	"name": "crackerjackdigital/silverstripe-quaff",
+	"name": "crackerjackdigital/silverstripe-quaff-all",
 	"type": "metapackage",
 	"description": "meta package for all crackerjackdigital/silverstripe-quaff modules",
 	"homepage": "http://github.com/crackerjackdigital",
